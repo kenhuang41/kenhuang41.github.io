@@ -4,19 +4,27 @@ Not too sure what I'm doing here but hopefully it looks okayy~
 
 ## Me
 
-Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on! If you're hiring for an internship and looking for a data-loving dude with a clown personality, do please contact me at kh19 [at] princeton [dot] edu. I'm also always willing to talk about any of the following character strings, if they mean anything to you :D
+Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
+
+If you're hiring for an internship and looking for a data-loving dude with a clown personality, do please contact me at kh19 [at] princeton [dot] edu. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love) :D
 
 * MFFL
-* RV / SM
+* RV (SM)
 * DC4L
+* Two men from Würzburg, Germany
 * 163 (game)
-* A man from Würzburg, Germany
+* "Yahallo!"
 * TongHua
-* Whitman Chicken Pot Pie
+* Whitman Chicken Pot Pie / Roma Grilled Cheese
+* Fudan University
+* Maroon Bells
+* "It's never lupus"
+* Smashburgers
+* Molly on the Shore clarinet solo
 
 
 [Timeline](http://kenhuang41.github.io/timeline)
 
-[Resume](facebook.com/kenhuang41)
+[Resume](./Resume_01082020)
 
 [LinkedIn](linkedin.com/in/kenhuang41)
