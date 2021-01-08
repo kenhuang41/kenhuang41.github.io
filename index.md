@@ -27,4 +27,4 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 
 [Resume](./Resume_01082020.pdf){:target="_blank"}
 
-[LinkedIn](www.linkedin.com/in/kenhuang41){:target="_blank"}
+[LinkedIn](https://linkedin.com/in/kenhuang41){:target="_blank"}
