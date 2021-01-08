@@ -23,8 +23,8 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 * Molly on the Shore clarinet solo
 
 
-[Timeline](http://kenhuang41.github.io/timeline)
+[Timeline](http://kenhuang41.github.io/timeline){:target="_blank"}
 
-[Resume](./Resume_01082020.pdf)
+[Resume](./Resume_01082020.pdf){:target="_blank"}
 
-[LinkedIn](linkedin.com/in/kenhuang41)
+[LinkedIn](linkedin.com/in/kenhuang41){:target="_blank"}
