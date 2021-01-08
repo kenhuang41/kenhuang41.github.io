@@ -1,4 +1,4 @@
-<span style="font-size:16px;">
+<span style="font-size:1em;">
   
 Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
