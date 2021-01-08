@@ -1,9 +1,3 @@
-# Welcome to my website, stranger!
-
-Not too sure what I'm doing here but hopefully it looks okayy~
-
-## Me
-
 Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
 [Timeline](./timeline){:target="_blank"}
