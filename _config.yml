@@ -5,3 +5,4 @@ description: My Personal Website
 github_username: kenhuang41
 
 theme: jekyll-theme-slate
+future: true
