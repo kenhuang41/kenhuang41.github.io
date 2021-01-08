@@ -1,29 +1,14 @@
-# Trying Markdown
+# Welcome to my website, stranger!
 
-Hopefully this helps lol
+Not too sure what I'm doing here but hopefully it looks okayy~
 
-*This text will be italic*
-_This will also be italic_
+## Intro
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+Heyo! My name is Kenny Huang, and I'm a sophomore studying Operations Research and Financial Engineering at Princeton University. I love numbers and working with datax.
    
 
 http://github.com - automatic!
-[GitHub](http://github.com)
+[Timeline](http://kenhuang41.github.io/timeline)
 
 As Kanye West said:
 
