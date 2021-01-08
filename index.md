@@ -1,4 +1,4 @@
-<span style="font-size:1.5em;">Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!</span>
+Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
 [Timeline](./timeline){:target="_blank"}
 
@@ -6,7 +6,7 @@
 
 [LinkedIn](https://linkedin.com/in/kenhuang41){:target="_blank"}
 
-<span style="font-size:1.5em;">If you're hiring for an internship and looking for a data-loving dude with a clown personality, do please contact me at kh19 [at] princeton [dot] edu. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love) :D</span>
+If you're hiring for an internship and looking for a data-loving dude with a clown personality, do please contact me at kh19 [at] princeton [dot] edu. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love) :D
 
 testing span
 
@@ -24,4 +24,4 @@ testing span
 * Smashburgers
 * Molly on the Shore clarinet solo
 
-<span style="font-size:1.5em;">Thanks for checking out my website!</span>
+Thanks for checking out my website!
