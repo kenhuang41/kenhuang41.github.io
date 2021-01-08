@@ -1,6 +1,4 @@
-<span style="font-size:1em;">
-  
-Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
+<span style="font-size:1.5em;">Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!</span>
 
 [Timeline](./timeline){:target="_blank"}
 
@@ -25,4 +23,3 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 * Molly on the Shore clarinet solo
 
 Thanks for checking out my website!
-</span>
