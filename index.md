@@ -2,23 +2,21 @@
 
 Not too sure what I'm doing here but hopefully it looks okayy~
 
-## Intro
+## Me
 
-Heyo! My name is Kenny Huang, and I'm a sophomore studying Operations Research and Financial Engineering at Princeton University. I love numbers and working with datax.
-   
+Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on! If you're hiring for an internship and looking for a data-loving dude with a clown personality, do please contact me at kh19 [at] princeton [dot] edu. I'm also always willing to talk about any of the following character strings, if they mean anything to you :D
 
-http://github.com - automatic!
+* MFFL
+* RV / SM
+* DC4L
+* 163 (game)
+* A man from Würzburg, Germany
+* TongHua
+* Whitman Chicken Pot Pie
+
+
 [Timeline](http://kenhuang41.github.io/timeline)
 
-As Kanye West said:
+[Resume](facebook.com/kenhuang41)
 
-> We're living the future so
-> the present is our past.
-
-I think you should use an
-`<addr>` element here instead.
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+[LinkedIn](linkedin.com/in/kenhuang41)
