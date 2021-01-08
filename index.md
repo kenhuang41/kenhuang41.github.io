@@ -25,6 +25,6 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 
 [Timeline](http://kenhuang41.github.io/timeline)
 
-[Resume](./Resume_01082020)
+[Resume](./Resume_01082020.pdf)
 
 [LinkedIn](linkedin.com/in/kenhuang41)
