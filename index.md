@@ -28,6 +28,7 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 * Smashburgers
 * Molly on the Shore clarinet solo
 
+
 Thanks for checking out my website!
 
 (Last updated January 8, 2020)
