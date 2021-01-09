@@ -6,7 +6,7 @@ Heyo! I'm a sophomore studying Operations Research and Financial Engineering at 
 
 [LinkedIn](https://linkedin.com/in/kenhuang41){:target="_blank"}
 
-# Projects
+## Projects
 
 [24 Game (2021)](https://kenhuang41.shinyapps.io/24-game/){:target="_blank"}
 
