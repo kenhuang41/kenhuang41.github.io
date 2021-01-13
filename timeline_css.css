@@ -8,13 +8,13 @@ body {
 }
 
 header {
-  background: #636363;
-  color: #f3f3f3;
+  background-image: linear-gradient(to right, #606060, #606060, #7b7b7b, #828282, #999999);
+  color: #eeeeee;
   font-size: 30px;
   text-align: center;
   padding: 50px 0px; }
   header p {
-    color: rgba(238, 238, 238, 0.6);
+    color: #eeeeee;
     margin-bottom: 0px;
     font-size: 30px;
     margin-top: -15px; }
