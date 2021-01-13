@@ -1,6 +1,6 @@
 Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
-[Resume](./Resume_01082020.pdf){:target="_blank"}
+[Resume](./Resume01122021.pdf){:target="_blank"}
 
 [Timeline](./timeline){:target="_blank"}
 
