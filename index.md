@@ -1,6 +1,6 @@
 Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
-[Resume](./Resume_01082020.pdf){:target="_blank"}
+[Resume](./Resume01122021.pdf){:target="_blank"}
 
 [Timeline](./timeline){:target="_blank"}
 
@@ -10,7 +10,9 @@ Heyo! I'm a sophomore studying Operations Research and Financial Engineering at 
 
 [24 Game (2021)](https://kenhuang41.shinyapps.io/24-game/){:target="_blank"}
 
-[NFL Bet (2020)](https://kenhuang41.shinyapps.io/nfl_bet/){:target="_blank"}  
+[NFL Bet (2020)](https://kenhuang41.shinyapps.io/nfl_bet/){:target="_blank"}
+
+[Load Management (2019)](wri150_paper.pdf){:target="_blank"}
 
 If you're hiring for an internship and looking for a data-loving dude with a clown personality, do please contact me at **kh19 [at] princeton [dot] edu**. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love) :D
 
