@@ -10,16 +10,16 @@ Heyo! I'm a sophomore studying Operations Research and Financial Engineering at 
 
 ### Projects
 
-[Scraped NBA Game Data](https://www.kaggle.com/kenhuang41/nba-basic-game-data-by-player){:target="_blank"}
+[Scraped NBA Game Data (2021)](https://www.kaggle.com/kenhuang41/nba-basic-game-data-by-player){:target="_blank"} <br />>
 Kaggle dataset of aggregated NBA box scores from 1996-2020 scraped using BS4
 
-[24 Game (2021)](https://kenhuang41.shinyapps.io/24-game/){:target="_blank"}
+[24 Game (2021)](https://kenhuang41.shinyapps.io/24-game/){:target="_blank"} <br />>
 Customizable widget to solve 24 game using R Shiny
 
-[NFL Bet (2020)](https://kenhuang41.shinyapps.io/nfl_bet/){:target="_blank"}
+[NFL Bet (2020)](https://kenhuang41.shinyapps.io/nfl_bet/){:target="_blank"} <br />>
 Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 
-[Load Management (2019)](wri150_paper.pdf){:target="_blank"}
+[Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
 Original research regarding effects of load management on the NBA
 
 <br />
