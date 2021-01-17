@@ -11,7 +11,7 @@ Heyo! I'm a sophomore studying Operations Research and Financial Engineering at 
 ### Projects
 
 [Scraped NBA Game Data](https://www.kaggle.com/kenhuang41/nba-basic-game-data-by-player){:target="_blank"}
-Kaggle dataset of aggregated NBA box scores from 1996-2020 using BS4
+Kaggle dataset of aggregated NBA box scores from 1996-2020 scraped using BS4
 
 [24 Game (2021)](https://kenhuang41.shinyapps.io/24-game/){:target="_blank"}
 Customizable widget to solve 24 game using R Shiny
