@@ -24,6 +24,8 @@ Original research regarding effects of load management on the NBA
 
 <br />
 
+### Contact
+
 If you're hiring for an internship and looking for a data-loving dude with a clown personality, do please contact me at **kh19 [at] princeton [dot] edu**. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love) :D
 
 * MFFL
