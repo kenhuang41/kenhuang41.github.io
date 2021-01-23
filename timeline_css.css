@@ -5,6 +5,7 @@
 body {
   background-image: linear-gradient(to bottom right, #676767, #383838, #101010);
   font-family: Georgia, serif;
+  background-attachment: fixed;
 }
 
 header {
