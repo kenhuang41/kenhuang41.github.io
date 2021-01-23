@@ -51,3 +51,15 @@ it's nowhere near done, but I'm very happy with my progress and will be detailin
     - `width: 100%;` **(not completely sure heh)**
   - **Use ::before and ::after for stuff** (will look into as well)
   - SCSS allows to use nested classes, variables, etc. but my laptop was being a butt so will explore later
+  
+## 1/23/21
+
+Finished up the useless bench analysis using R Markdown. We had learned the bare bones of using R Markdown in SML201 but none of the HTML workings, so it was really cool to look at the HTML in the back and see all of the auto-generated code. However, due to the nature of R Markdown, it was all in-line CSS, so I created an external CSS file to be able to customize the page as I wanted. Knowing HTML and CSS now allowed me to add new features to the knitted HTML document. Even though it was a pretty simple task, I still learned a few cool features.
+
+* Create a fixed background (ex. gradient relative to part of page available on screen, not to the entire page)
+  - background-attachment: fixed;
+* Apply global font / font size
+  - html * {blah blah}
+* Add !important tag to set properties to final
+  - Properties are updated from top to bottom, unless protected by important tag
+* Adding ggplots in R markdown kinda sucks (not sure why)
