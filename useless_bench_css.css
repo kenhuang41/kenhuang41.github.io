@@ -55,6 +55,6 @@ img {
 }
 
 body {
-  background-image: linear-gradient(#ffffff, #eeeeee, #dddddd, #bbbbbb);
+  background-image: linear-gradient(#ffffff, #ffffff, #eeeeee, #dddddd, #bbbbbb);
   background-attachment: fixed;
 }
