@@ -10,6 +10,9 @@ Heyo! I'm a sophomore studying Operations Research and Financial Engineering at 
 
 ### Projects
 
+[Useless Bench (2021)](projects/useless_bench.html){:target="_blank"} <br />
+Brief analysis of worst bench performances in NBA history
+
 [Scraped NBA Game Data (2021)](https://www.kaggle.com/kenhuang41/nba-basic-game-data-by-player){:target="_blank"} <br />
 Kaggle dataset of aggregated NBA box scores from 1996-2020 scraped using BS4
 
@@ -20,7 +23,7 @@ Customizable widget to solve 24 game using R Shiny
 Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 
 [Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
-Original research regarding effects of load management on the NBA
+Paper detailing original research regarding effects of load management on the NBA
 
 <br />
 
@@ -46,4 +49,4 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 
 Thanks for checking out my website!
 
-(Last updated January 17, 2021)
+(Last updated January 23, 2021)
