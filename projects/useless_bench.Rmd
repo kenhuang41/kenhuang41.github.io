@@ -65,9 +65,9 @@ data = data %>% mutate(TEAM = teams[TEAM],
 
 ### Methodology and Materials Used
 
-I had recently scraped NBA box score data for one of my other projects, and it was almost perfect for my purposes today. I had taken basic box score data from all games starting from the 1996-1997 season to December 31, 2020, and aggregated them all into a .csv file (available on Kaggle). The only adjustment I had to make was to write a quick macro to determine whether players were starters, but otherwise the data was already good to go.
+I had recently scraped NBA box score data for one of my other projects, and it was almost perfect for my purposes today. I had taken basic box score data from all games starting from the 1996-1997 season to December 31, 2020, and aggregated them all into a .csv file (available on [Kaggle](https://www.kaggle.com/kenhuang41/nba-basic-game-data-by-player)). The only adjustment I had to make was to write a quick macro to determine whether players were starters, but otherwise the data was already good to go.
 
-My thought process was to see how many games in my dataset saw bench production as bad or worse than the Nets, in terms of several metrics and filters. For the final notebook, I arranged my findings in rough order of increasing specificity.
+My goal was to see how many games in my dataset saw bench production as bad or worse than the Nets, in terms of several metrics and filters. For the final notebook, I arranged my findings in rough order of increasing specificity.
 
 ### Attempt 1
 
@@ -191,7 +191,7 @@ starters_data %>%
 
 2146 games, which over 24 years accounts for about 100 games per year, about one game for every team. So this isn't particularly rare. In some games, however, like the Heat game, this is inflated by games in which only a couple bench players actually get minutes.
 
-What if we add the restriction that at least four players actually playing off the bench?
+What if we add the restriction that at least four players actually play off the bench?
 
 ```{r, echo = FALSE}
 starters_data %>% 
@@ -225,9 +225,9 @@ starters_data %>%
 
 Only 96 games now. This is the strictest filter we can reasonably apply, so the fact that this still occurs roughly 4 times a year is pretty surprising. As a Mavericks fan, I've been fortunate to watch a team that, no matter how we poorly do overall, always has solid contributions from the bench. 
 
-```{r, echo = FALSE}
+```{r}
 starters_data %>% 
-    filter(TEAM == "DAL", ReservePoints / TotalPoints < 0.1, ReserveMinutes / TotalMinutes > 1/4, Reserves >= 4) %>% 
+    filter(TEAM == "DAL", ReservePoints / TotalPoints <= 10 / 135, Reserves >= 4, ReserveMinutes / TotalMinutes > 71.13 / 290) %>% 
     arrange(ReservePoints/TotalPoints)
 ```
 
@@ -235,7 +235,7 @@ Here are the teams with the least such games after our championship run in 2011.
 
 ```{r, echo = FALSE}
 starters_data %>% 
-    filter(Year > 2011, ReservePoints / TotalPoints < 0.1, ReserveMinutes / TotalMinutes > 1/4, Reserves >= 4) %>% 
+    filter(Year > 2011, ReservePoints / TotalPoints <= 10 / 135, Reserves >= 4, ReserveMinutes / TotalMinutes > 71.13 / 290) %>% 
     group_by(TEAM) %>% 
     summarize(COUNT = n()) %>% 
     arrange(COUNT)
@@ -243,21 +243,22 @@ starters_data %>%
 
 I also wanted to take a look at the frequency of such games over time.
 
-```{r, fig.width = 10}
+```{r, fig.width = 7}
 starters_data %>% 
-    filter(ReservePoints / TotalPoints < 0.1, Reserves >= 4, ReserveMinutes / TotalMinutes > 1/4) %>% 
+    filter(ReservePoints / TotalPoints <= 10 / 135, Reserves >= 4, ReserveMinutes / TotalMinutes > 71.13 / 290) %>% 
     select(Year) %>%  
     ggplot(aes(x = as.numeric(Year))) + 
     stat_bin(fill = "orange", color = "black", breaks = 1995:2020) + 
-    labs(title = "Bench Scoring <10% of Points in >25% of Minutes (Min 4 Players)",
-         x = "Year", y = "Count")
+    labs(title = "Nets-esque Games",
+         x = "Year", y = "Count") + 
+    theme(plot.title = element_text(hjust = 0.5))
 ```
 
-Although the occurrences are decreasing in recent years, it's a bit jarring to see that quite often teams' starters have to carry their teams so hard. For instance, the Celtics bench played 4 such games in 2020 alone. Of course, we can probably expect the Nets to see a few more such games this year.
+Although the occurrences are decreasing in recent years, it's a bit jarring to see that quite often teams' starters have to carry their teams to this extent. For instance, the Celtics bench played 2 such games in 2020 alone, and had 2 additional games in which they scored less than 10% of the points in >25% of the playing time. I think we can probably expect the Nets to see a few more such games this year.
 
 ```{r, echo = FALSE}
 starters_data %>% 
-    filter(Year > 2019, ReservePoints / TotalPoints <= 0.1, Reserves >= 4, ReserveMinutes / TotalMinutes > 1/4)
+    filter(Year > 2019, ReservePoints / TotalPoints <= 10 / 135, Reserves >= 4, ReserveMinutes / TotalMinutes > 71.13 / 290)
 ```
 
 ### Finding the Most Impressive Game
@@ -275,7 +276,7 @@ In my personal opinion, I think the winner is the 1998-99 Los Angeles Lakers. In
 
 ### Conclusions
 
-As surprised as I was to hear that the Nets bench only scored 10 points, I was even more shocked to see that such games occur about 4 times a year, although the frequency appears to decreasing from a peak in the early 2000's. Future analysis could involve finding more causal relationships or exploring the effect that superteams like the Nets have on their occurrence.
+As surprised as I was to hear that the Nets bench only scored 10 points, I was even more shocked to see that such abysmal games occur about 4 times a year, although the frequency appears to decreasing from a peak in the early 2000's. Future analysis could involve finding more causal relationships or exploring the effect that superteams like the Nets have on their occurrence.
 
 In addition, bench performance is generally regarded as a positive contributing factor to winning games. It would be interesting to examine the relationship between bench performance and win percentage or other performance metrics.
 
