@@ -10,8 +10,11 @@ Heyo! I'm a sophomore studying Operations Research and Financial Engineering at 
 
 ### Projects
 
+[Perfect Games (2021)](http://harvardsportsanalysis.org/2021/02/almost-perfect-a-look-at-zion-esque-games/){:target="_blank"} <br />
+Brief analysis of players making all of their 2-point field goal attempts in NBA history (HSAC)
+
 [Useless Bench (2021)](projects/useless_bench.html){:target="_blank"} <br />
-Brief analysis of worst bench performances in NBA history
+Analysis of worst bench performances in NBA history
 
 [Scraped NBA Game Data (2021)](https://www.kaggle.com/kenhuang41/nba-basic-game-data-by-player){:target="_blank"} <br />
 Kaggle dataset of aggregated NBA box scores from 1996-2020 scraped using BS4
@@ -49,4 +52,4 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 
 Thanks for checking out my website!
 
-(Last updated January 23, 2021)
+(Last updated February 16, 2021)
