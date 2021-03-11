@@ -8,7 +8,20 @@ Heyo! I'm a sophomore studying Operations Research and Financial Engineering at 
 
 <br />
 
-### Projects
+### Featured
+
+[Useless Bench (2021)](projects/useless_bench.html){:target="_blank"} <br />
+Analysis of worst bench performances in NBA history
+
+[Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
+Paper detailing original research regarding effects of load management on the NBA
+
+[NFL Bet (2020)](https://kenhuang41.shinyapps.io/nfl_bet/){:target="_blank"} <br />
+Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
+
+<br />
+
+### Analysis Articles
 
 [Perfect Games (2021)](http://harvardsportsanalysis.org/2021/02/almost-perfect-a-look-at-zion-esque-games/){:target="_blank"} <br />
 Brief analysis of players making all of their 2-point field goal attempts in NBA history (HSAC)
@@ -16,17 +29,28 @@ Brief analysis of players making all of their 2-point field goal attempts in NBA
 [Useless Bench (2021)](projects/useless_bench.html){:target="_blank"} <br />
 Analysis of worst bench performances in NBA history
 
-[Scraped NBA Game Data (2021)](https://www.kaggle.com/kenhuang41/nba-basic-game-data-by-player){:target="_blank"} <br />
-Kaggle dataset of aggregated NBA box scores from 1996-2020 scraped using BS4
+[Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
+Paper detailing original research regarding effects of load management on the NBA
+
+<br />
+
+### Datasets
+
+[NBA Block Data (2021)](https://www.kaggle.com/kenhuang41/nba-block-possession-data){:target="_blank"} <br />
+Summary of possessions involving a block from 1996-2020 scraping using BS4
+
+[NBA Game Data (2021)](https://www.kaggle.com/kenhuang41/nba-basic-game-data-by-player){:target="_blank"} <br />
+Aggregated NBA box scores from 1996-2020 scraped using BS4
+
+<br />
+
+### Personal Projects
 
 [24 Game (2021)](https://kenhuang41.shinyapps.io/24-game/){:target="_blank"} <br />
 Customizable widget to solve 24 game using R Shiny
 
 [NFL Bet (2020)](https://kenhuang41.shinyapps.io/nfl_bet/){:target="_blank"} <br />
 Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
-
-[Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
-Paper detailing original research regarding effects of load management on the NBA
 
 <br />
 
@@ -52,4 +76,4 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 
 Thanks for checking out my website!
 
-(Last updated February 16, 2021)
+(Last updated March 10, 2021)
