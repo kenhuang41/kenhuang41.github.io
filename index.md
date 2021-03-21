@@ -42,9 +42,15 @@ Summary of possessions involving a block from 1996-2020 scraping using BS4
 [NBA Game Data (2021)](https://www.kaggle.com/kenhuang41/nba-basic-game-data-by-player){:target="_blank"} <br />
 Aggregated NBA box scores from 1996-2020 scraped using BS4
 
+[English Synonym Corpus (2021)](https://www.kaggle.com/kenhuang41/english-synonym-corpus){:target="_blank"} <br />
+Ten synonyms for the 333,333 most common English words scraped using BS4
+
 <br />
 
 ### Personal Projects
+
+[Unhelpful Thesaurus (2021)](https://kenhuang41.shinyapps.io/unhelpful_thesaurus/){:target="_blank"} <br />
+Fun widget to generate nonsensical sentences based on synonyms scraped from thesaurus.com
 
 [24 Game (2021)](https://kenhuang41.shinyapps.io/24-game/){:target="_blank"} <br />
 Customizable widget to solve 24 game using R Shiny
