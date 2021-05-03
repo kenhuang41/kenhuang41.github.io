@@ -1,6 +1,6 @@
 Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
-[Resume](./Resume01122021.pdf){:target="_blank"}
+[Resume](./Resume050321.pdf){:target="_blank"}
 
 [Timeline](./timeline){:target="_blank"}
 
@@ -10,8 +10,8 @@ Heyo! I'm a sophomore studying Operations Research and Financial Engineering at 
 
 ### Featured
 
-[Useless Bench (2021)](projects/useless_bench.html){:target="_blank"} <br />
-Analysis of worst bench performances in NBA history
+[Bad Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
+Evaluation of blocks and their value in the NBA
 
 [Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
 Paper detailing original research regarding effects of load management on the NBA
@@ -22,6 +22,9 @@ Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 <br />
 
 ### Analysis Articles
+
+[Bad Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
+Evaluation of blocks and their value in the NBA
 
 [Perfect Games (2021)](http://harvardsportsanalysis.org/2021/02/almost-perfect-a-look-at-zion-esque-games/){:target="_blank"} <br />
 Brief analysis of players making all of their 2-point field goal attempts in NBA history (HSAC)
@@ -58,6 +61,12 @@ Customizable widget to solve 24 game using R Shiny
 [NFL Bet (2020)](https://kenhuang41.shinyapps.io/nfl_bet/){:target="_blank"} <br />
 Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 
+[Rubix Cube (2019)](https://m.facebook.com/story.php?story_fbid=2553973861364941&id=100002570556666){:target="_blank"} <br />
+Report on semester-long commitment to improve at solving a Rubix cube
+
+[Powerade (2019)](https://m.facebook.com/story.php?story_fbid=2454654487963546&id=100002570556666){:target="_blank"} <br />
+Fun visualization of Powerade addiction
+
 [First Point Analysis (2015)](https://docs.google.com/spreadsheets/d/1rGuhxGGrdMzkU4yDsr-2Fsnx1fif9XndRTxqDQ8JJOA/edit?usp=sharing){:target="_blank"} <br />
 Comprehensive analys-- ok let's be honest this was way before I got into data science but somehow I was motivated to make this?
 
@@ -85,4 +94,4 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 
 Thanks for checking out my website!
 
-(Last updated March 10, 2021)
+(Last updated May 2, 2021)
