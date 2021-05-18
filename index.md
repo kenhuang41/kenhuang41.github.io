@@ -1,4 +1,4 @@
-Heyo! I'm a sophomore studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
+Heyo! I'm a rising junior studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
 [Resume](./Resume_050321.pdf){:target="_blank"}
 
@@ -13,6 +13,9 @@ Heyo! I'm a sophomore studying Operations Research and Financial Engineering at 
 [Bad Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
 Evaluation of blocks and their value in the NBA
 
+[Free Agency (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
+Analysis of factors influencing NBA player free agency decisions
+
 [Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
 Paper detailing original research regarding effects of load management on the NBA
 
@@ -22,6 +25,9 @@ Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 <br />
 
 ### Analysis Articles
+
+[Free Agency (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
+Analysis of factors influencing NBA player free agency decisions
 
 [Bad Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
 Evaluation of blocks and their value in the NBA
@@ -74,7 +80,7 @@ Comprehensive analys-- ok let's be honest this was way before I got into data sc
 
 ### Contact
 
-If you're hiring for an internship and looking for a data-loving dude with a clown personality, please contact me at **kh19 [at] princeton [dot] edu**. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love) :D
+If you're hiring for an internship in the coming school year or the 2022 summer and are looking for a data-loving dude with a refreshing personality, please contact me at **kh19 [at] princeton [dot] edu**. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love) :D
 
 * MFFL
 * RV (SM)
@@ -94,4 +100,4 @@ If you're hiring for an internship and looking for a data-loving dude with a clo
 
 Thanks for checking out my website!
 
-(Last updated May 2, 2021)
+(Last updated May 17, 2021)
