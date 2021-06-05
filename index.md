@@ -6,9 +6,6 @@ Heyo! I'm a rising junior studying Operations Research and Financial Engineering
 
 [LinkedIn](https://linkedin.com/in/kenhuang41){:target="_blank"}
 
-| [Resume](./Resume_050321.pdf){:target="_blank"}      | [Timeline](./timeline){:target="_blank"} | [LinkedIn](https://linkedin.com/in/kenhuang41){:target="_blank"} |
-| ----------- | ----------- | ----------- |
-
 <br />
 
 ### Featured
