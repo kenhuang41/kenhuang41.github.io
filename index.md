@@ -1,6 +1,6 @@
 Heyo! I'm a rising junior studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
-[Resume](./Resume_050321.pdf){:target="_blank"}
+[Resume](./Resume_081621.pdf){:target="_blank"}
 
 [Timeline](./timeline){:target="_blank"}
 
@@ -83,7 +83,7 @@ Comprehensive analys-- ok let's be honest this was way before I got into data sc
 If you're hiring for an internship in the coming school year or the 2022 summer and are looking for a data-loving dude with a refreshing personality, please contact me at **kh19 [at] princeton [dot] edu**. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love) :D
 
 * MFFL
-* RV (SM)
+* RV (SM) / DC
 * DC4L
 * Two men from Würzburg, Germany
 * 163 (ARML)
@@ -91,9 +91,9 @@ If you're hiring for an internship in the coming school year or the 2022 summer 
 * TongHua
 * Whitman Chicken Pot Pie / Roma Grilled Cheese
 * Fudan University
+* Smashburgers
 * Maroon Bells
 * "It's never lupus"
-* Smashburgers
 * Molly on the Shore clarinet solo  
 
 <br />
