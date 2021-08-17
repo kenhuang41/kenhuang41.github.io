@@ -1,6 +1,6 @@
-Heyo! I'm a rising junior studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
+Heyo! I'm a junior studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
-[Resume](./Resume_081621.pdf){:target="_blank"}
+[Resume](./Resume_081721.pdf){:target="_blank"}
 
 [Timeline](./timeline){:target="_blank"}
 
@@ -10,11 +10,11 @@ Heyo! I'm a rising junior studying Operations Research and Financial Engineering
 
 ### Featured
 
-[Bad Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
+[A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
 Evaluation of blocks and their value in the NBA
 
-[Free Agency (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
-Analysis of factors influencing NBA player free agency decisions
+[Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
+Analysis of player factors influencing NBA player free agency decisions
 
 [Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
 Paper detailing original research regarding effects of load management on the NBA
@@ -26,16 +26,16 @@ Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 
 ### Analysis Articles
 
-[Free Agency (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
-Analysis of factors influencing NBA player free agency decisions
+[Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
+Analysis of player factors influencing NBA player free agency decisions
 
-[Bad Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
+[A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
 Evaluation of blocks and their value in the NBA
 
 [Perfect Games (2021)](http://harvardsportsanalysis.org/2021/02/almost-perfect-a-look-at-zion-esque-games/){:target="_blank"} <br />
 Brief analysis of players making all of their 2-point field goal attempts in NBA history (HSAC)
 
-[Useless Bench (2021)](projects/useless_bench.html){:target="_blank"} <br />
+[Useless Benches in the NBA (2021)](projects/useless_bench.html){:target="_blank"} <br />
 Analysis of worst bench performances in NBA history
 
 [Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
@@ -100,4 +100,4 @@ If you're hiring for an internship in the coming school year or the 2022 summer 
 
 Thanks for checking out my website!
 
-(Last updated May 17, 2021)
+(Last updated August 17, 2021)
