@@ -54,6 +54,8 @@ Paper detailing original research regarding effects of load management on the NB
 [Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_project.pdf){:target="_blank"} <br />
 Computer vision project to detect which string is being played by a cellist based on visual data
 
+<br />
+
 ### Datasets
 
 [NBA Block Data (2021)](https://www.kaggle.com/kenhuang41/nba-block-possession-data){:target="_blank"} <br />
