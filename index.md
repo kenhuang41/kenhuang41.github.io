@@ -13,6 +13,9 @@ Heyo! I'm a junior studying Operations Research and Financial Engineering at Pri
 [A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
 Evaluation of blocks and their value in the NBA
 
+[Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_project.pdf){:target="_blank"} <br />
+Computer vision project to detect which string is being played by a cellist based on visual data
+
 [Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
 Analysis of player factors influencing NBA player free agency decisions
 
@@ -25,6 +28,9 @@ Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 <br />
 
 ### Analysis Articles
+
+[Predicting Fast Food Growth (2021)](./projects/sml310_report.pdf){:target="_blank"} <br />
+Using SVM and logistic regression to predict growth of fast food restaurants in United States
 
 [Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
 Analysis of player factors influencing NBA player free agency decisions
@@ -43,6 +49,11 @@ Paper detailing original research regarding effects of load management on the NB
 
 <br />
 
+### Projects
+
+[Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_project.pdf){:target="_blank"} <br />
+Computer vision project to detect which string is being played by a cellist based on visual data
+
 ### Datasets
 
 [NBA Block Data (2021)](https://www.kaggle.com/kenhuang41/nba-block-possession-data){:target="_blank"} <br />
@@ -57,6 +68,9 @@ Ten synonyms for the 333,333 most common English words scraped using BS4
 <br />
 
 ### Personal Projects
+
+[Battleship (2022)](./battleship){:target="_blank"} <br />
+Virtual version of Battleship board game made using React
 
 [Unhelpful Thesaurus (2021)](https://kenhuang41.shinyapps.io/unhelpful_thesaurus/){:target="_blank"} <br />
 Fun widget to generate nonsensical sentences based on synonyms scraped from thesaurus.com
@@ -100,4 +114,4 @@ If you're hiring for an internship in the coming school year or the 2022 summer 
 
 Thanks for checking out my website!
 
-(Last updated August 17, 2021)
+(Last updated January 7, 2022)
