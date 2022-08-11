@@ -1,3 +1,10 @@
+body {
+  margin-top: 70px;
+  margin-bottom: 0px;
+  background-color: #dde;
+  font-size: 20;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -7,10 +14,6 @@
   width: 100%;
 }
 
-body {
-  margin-top: 60px;
-}
-
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
@@ -18,37 +21,51 @@ body {
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #bbc;
   color: black;
+}
+
+/* Add a color to the home page */
+.topnav a.home {
+  background-color: #0072A0;
+  color: white;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #dde;
+  color: black;
 }
 
-/* Add a black background color to the top navigation */
+/* Add a black background color to the bottom navigation */
 .botnav {
-  background-color: #666;
-  left: 0;
+  background-color: clear;
+  position: fixed;
   bottom: 0;
-  width: 100%;
+  left: 50%;
+  padding-top: 500px;
+  transform: translate(-50%, 70%);
+}
+
+.botnav:hover {
+  background-color: #333;
+  padding-top: 0px;
+  transform: translate(-50%, 0%);
 }
 
 /* Style the links inside the navigation bar */
 .botnav a {
   float: left;
-  color: black;/*#f2f2f2;*/
+  color: #f2f2f2;
   text-align: center;
-  padding: 14px 20px;
+  padding: 14px 40px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 /* Change the color of links on hover */
@@ -61,4 +78,27 @@ body {
 .botnav a.active {
   background-color: #04AA6D;
   color: white;
+}
+
+/* Container holding the image and the text on home page */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  margin: -24px -8px;
+}
+
+/* Text container */
+.title-container {
+  position: absolute;
+  top: 25%;
+  left: 70%;
+  width: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Text container for body */
+.title-container p {
+  text-align: center;
 }
