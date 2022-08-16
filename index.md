@@ -2,6 +2,7 @@ Heyo! I'm a senior studying Operations Research and Financial Engineering at Pri
 
 [<img src="github.png" width=30px>](https://github.com/kenhuang41/){:target="_blank"}
 [<img src="linkedin.png" width=30px>](https://linkedin.com/in/kenhuang41){:target="_blank"}
+[<img src="mail.png" width=30px>](kh19@princeton.edu){:target="_blank"}
 
 <br />
 
@@ -26,12 +27,6 @@ Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 
 ### Analysis Articles
 
-[Predicting Fast Food Growth (2021)](./projects/sml310_report.pdf){:target="_blank"} <br />
-Using SVM and logistic regression to predict growth of fast food restaurants in United States
-
-[Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
-Analysis of player factors influencing NBA player free agency decisions
-
 [A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
 Evaluation of blocks and their value in the NBA
 
@@ -46,7 +41,13 @@ Paper detailing original research regarding effects of load management on the NB
 
 <br />
 
-### Projects
+### Class Projects
+
+[Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
+Analysis of player factors influencing NBA player free agency decisions
+
+[Predicting Fast Food Growth (2021)](./projects/sml310_report.pdf){:target="_blank"} <br />
+Using SVM and logistic regression to predict growth of fast food restaurants in United States
 
 [Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_project.pdf){:target="_blank"} <br />
 Computer vision project to detect which string is being played by a cellist based on visual data
@@ -96,24 +97,20 @@ Comprehensive analys-- ok let's be honest this was way before I got into data sc
 
 ### Contact
 
-If you're hiring for an internship in the coming school year or the 2022 summer and are looking for a data-loving dude with a refreshing personality, please contact me at **kh19 [at] princeton [dot] edu**. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love) :D
+I'm currently looking for a full-time role. If you have a position open or just want to chat about anything I've created here, please contact me at **kh19 [at] princeton [dot] edu**. Even if you're not hiring, I'm always willing to talk about any of the following things (sorted roughly in order of love):
 
-* MFFL
-* RV (SM) / DC
-* DC4L
-* Two men from Würzburg, Germany
-* 163 (ARML)
-* "Yahallo!" or "Jaeger"
-* TongHua
+* Dallas Mavericks (specifically, two men from Würzburg, Germany and a certain Mr. Dorian Finney-Smith)
+* Why the Cowboys >> Eagles
+* The Game of 163 (variant of 24-game)
+* "Yahallo" / "Jaegar" / "146 other ways"
 * Whitman Chicken Pot Pie / Roma Grilled Cheese
 * Fudan University
 * Smashburgers
-* Maroon Bells
-* "It's never lupus"
-* Molly on the Shore clarinet solo  
+* Maroon Bells / Grand Tetons
+* Molly on the Shore clarinet solo
 
 <br />
 
 Thanks for checking out my website!
 
-(Last updated January 7, 2022)
+(Last updated August 16, 2022)
