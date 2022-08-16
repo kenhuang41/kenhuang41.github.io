@@ -1,4 +1,4 @@
-Heyo! I'm a senior studying Operations Research and Financial Engineering at Princeton University and pursuing a career in data analytics, finance, and basically anything that involves getting my hands dirty solving problems. I currently serve as an officer on the DataDev team of Princeton Data Science, and I am also co-vice president of our Table Tennis Club. Feel free to take a look below and see some of things I've been working on! You can also find [my resume here](./Resume_081622.pdf){:target="_blank"} and a [brief timeline of my journey thus far here](./timeline){:target="_blank"}.
+Heyo! I'm a senior studying Operations Research and Financial Engineering at Princeton University and pursuing a career in data analytics, finance, and basically anything that involves getting my hands dirty solving problems. I currently serve as an officer on the DataDev team of Princeton Data Science, and I am also co-vice president of our Table Tennis Club. In my free time, I enjoy playing basketball, cooking, and scrolling through Reddit, and a recent interest of mine is flag football. Feel free to take a look below and see some of things I've been working on! You can also find [my resume here](./Resume_081622.pdf){:target="_blank"} and a [brief timeline of my journey thus far here](./timeline){:target="_blank"}.
 
 [<img src="github.png" width=30px>](https://github.com/kenhuang41/){:target="_blank"}
 [<img src="linkedin.png" width=30px>](https://linkedin.com/in/kenhuang41){:target="_blank"}
@@ -8,8 +8,8 @@ Heyo! I'm a senior studying Operations Research and Financial Engineering at Pri
 
 ### Featured
 
-[A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
-Evaluation of blocks and their value in the NBA
+[What Constitutes a Good Block? (2022)](projects/bad_blocks2.pdf){:target="_blank"} <br />
+Improved look at evaluation of blocks within and after possessions
 
 [Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_project.pdf){:target="_blank"} <br />
 Computer vision project to detect which string is being played by a cellist based on visual data
@@ -27,6 +27,15 @@ Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 
 ### Analysis Articles
 
+[What Constitutes a Good Block? (2022)](projects/bad_blocks2.pdf){:target="_blank"} <br />
+Improved look at evaluation of blocks within and after possessions
+
+[Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
+Analysis of player factors influencing NBA player free agency decisions
+
+[Predicting Fast Food Growth (2021)](./projects/sml310_report.pdf){:target="_blank"} <br />
+Using SVM and logistic regression to predict growth of fast food restaurants in United States
+
 [A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
 Evaluation of blocks and their value in the NBA
 
@@ -41,13 +50,7 @@ Paper detailing original research regarding effects of load management on the NB
 
 <br />
 
-### Class Projects
-
-[Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
-Analysis of player factors influencing NBA player free agency decisions
-
-[Predicting Fast Food Growth (2021)](./projects/sml310_report.pdf){:target="_blank"} <br />
-Using SVM and logistic regression to predict growth of fast food restaurants in United States
+### Other Projects
 
 [Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_project.pdf){:target="_blank"} <br />
 Computer vision project to detect which string is being played by a cellist based on visual data
