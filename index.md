@@ -1,6 +1,8 @@
 Heyo! I'm a junior studying Operations Research and Financial Engineering at Princeton University, and I'm pursuing a career in data science. Feel free to take a look around the website at some of things I've been working on!
 
-[Resume](./Resume_081821.pdf){:target="_blank"}
+[Resume](./Resume_081622.pdf){:target="_blank"}
+
+[<img src="linkedin.png">](https://linkedin.com/in/kenhuang41){:target="_blank"}
 
 [Timeline](./timeline){:target="_blank"}
 
@@ -56,7 +58,7 @@ Computer vision project to detect which string is being played by a cellist base
 
 <br />
 
-### Datasets
+### Datasets Created
 
 [NBA Block Data (2021)](https://www.kaggle.com/kenhuang41/nba-block-possession-data){:target="_blank"} <br />
 Summary of possessions involving a block from 1996-2020 scraping using BS4
@@ -71,17 +73,25 @@ Ten synonyms for the 333,333 most common English words scraped using BS4
 
 ### Personal Projects
 
+[Greece Recap (2022)](./greece/home.html){:target="_blank"} <br />
+Fun recap of family vacation from perspective of Smiski's <br />
+Skills used: HTML, Git
+
 [Battleship (2022)](./battleship){:target="_blank"} <br />
-Virtual version of Battleship board game made using React
+Virtual version of Battleship board game created from scratch without tutorial <br />
+Skills used: React
 
 [Unhelpful Thesaurus (2021)](https://kenhuang41.shinyapps.io/unhelpful_thesaurus/){:target="_blank"} <br />
-Fun widget to generate nonsensical sentences based on synonyms scraped from thesaurus.com
+Fun widget to generate nonsensical sentences based on synonyms scraped from thesaurus.com <br />
+Skills used: R Shiny
 
 [24 Game (2021)](https://kenhuang41.shinyapps.io/24-game/){:target="_blank"} <br />
-Customizable widget to solve 24 game using R Shiny
+Customizable widget to solve 24 game using R Shiny <br />
+Skills used: R Shiny
 
 [NFL Bet (2020)](https://kenhuang41.shinyapps.io/nfl_bet/){:target="_blank"} <br />
-Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
+Comprehensive analysis of year-long bet with friend regarding NFL game outcomes <br />
+Skills used: R Shiny
 
 [Rubix Cube (2019)](https://m.facebook.com/story.php?story_fbid=2553973861364941&id=100002570556666){:target="_blank"} <br />
 Report on semester-long commitment to improve at solving a Rubix cube
