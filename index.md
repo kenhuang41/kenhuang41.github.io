@@ -59,6 +59,9 @@ Computer vision project to detect which string is being played by a cellist base
 
 ### Datasets Created
 
+[NBA Possession Data (2022)](https://www.kaggle.com/datasets/kenhuang41/possession-data-for-202122-nba-season?select=2021_season_poss_5.csv){:target="_blank"} <br />
+Individual possession data from all regular season games in 2021-22 season scraped using BS4
+
 [NBA Block Data (2021)](https://www.kaggle.com/kenhuang41/nba-block-possession-data){:target="_blank"} <br />
 Summary of possessions involving a block from 1996-2020 scraping using BS4
 
