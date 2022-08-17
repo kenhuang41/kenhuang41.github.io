@@ -8,8 +8,8 @@ Heyo! I'm a senior studying Operations Research and Financial Engineering at Pri
 
 ### Featured
 
-[What Constitutes a Good Block? (2022)](projects/bad_blocks2.pdf){:target="_blank"} <br />
-Improved look at evaluation of blocks within and after possessions
+[What Makes Blocks Good? (2022)](projects/good_blocks.pdf){:target="_blank"} <br />
+Improved evaluation of blocks and their effects within and after possessions
 
 [Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_project.pdf){:target="_blank"} <br />
 Computer vision project to detect which string is being played by a cellist based on visual data
@@ -27,8 +27,8 @@ Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
 
 ### Analysis Articles
 
-[What Constitutes a Good Block? (2022)](projects/bad_blocks2.pdf){:target="_blank"} <br />
-Improved look at evaluation of blocks within and after possessions
+[What Makes Blocks Good? (2022)](projects/good_blocks.pdf){:target="_blank"} <br />
+Improved evaluation of blocks and their effects within and after possessions
 
 [Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
 Analysis of player factors influencing NBA player free agency decisions
