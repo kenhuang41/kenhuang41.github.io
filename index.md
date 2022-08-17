@@ -1,8 +1,8 @@
-Heyo! I'm a senior studying Operations Research and Financial Engineering at Princeton University and pursuing a career in data analytics, finance, and basically anything that involves getting my hands dirty solving problems. I currently serve as an officer on the DataDev team of Princeton Data Science, and I am also co-vice president of our Table Tennis Club. In my free time, I enjoy playing basketball, cooking, and scrolling through Reddit, and a recent interest of mine is flag football. Feel free to take a look below and see some of things I've been working on! You can also find [my resume here](./Resume_081722.pdf){:target="_blank"} and a [brief timeline of my journey thus far here](./timeline){:target="_blank"}.
+Heyo! I'm a senior studying Operations Research and Financial Engineering at Princeton University and pursuing a career in data analytics, finance, and basically anything that involves getting my hands dirty solving problems. I currently serve as an officer on the DataDev team of Princeton Data Science, and I am also co-vice president of our Table Tennis Club. In my free time, I enjoy playing basketball, cooking, and scrolling through Reddit, and a recent interest of mine is playing flag football. Feel free to take a look below and see some of things I've been working on! You can also find [my resume here](./Resume_081722.pdf){:target="_blank"} and a [brief timeline of my journey thus far here](./timeline){:target="_blank"}.
 
 [<img src="github.png" width=30px>](https://github.com/kenhuang41/){:target="_blank"}
 [<img src="linkedin.png" width=30px>](https://linkedin.com/in/kenhuang41){:target="_blank"}
-[<img src="mail.png" width=30px>](kh19@princeton.edu){:target="_blank"}
+[<img src="mail.png" width=30px>](mailto:kh19@princeton.edu){:target="_blank"}
 
 <br />
 
