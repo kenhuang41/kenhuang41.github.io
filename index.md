@@ -17,11 +17,11 @@ Computer vision project to detect which string is being played by a cellist base
 [Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
 Analysis of player factors influencing NBA player free agency decisions
 
-[Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
-Paper detailing original research regarding effects of load management on the NBA
+[A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
+Evaluation of blocks and their value in the NBA
 
-[NFL Bet (2020)](https://kenhuang41.shinyapps.io/nfl_bet/){:target="_blank"} <br />
-Comprehensive analysis of year-long bet with friend regarding NFL game outcomes
+[NYC Trip Visualization (2022)](https://kenhuang41.shinyapps.io/nyc_trip_visualization/){:target="_blank"} <br />
+Fun gadget containing visualizations and summary of NYC summer trip spending
 
 <br />
 
@@ -74,6 +74,9 @@ Ten synonyms for the 333,333 most common English words scraped using BS4
 <br />
 
 ### Personal Projects
+
+[NYC Trip Visualization (2022)](https://kenhuang41.shinyapps.io/nyc_trip_visualization/){:target="_blank"} <br />
+Fun gadget containing visualizations and summary of NYC summer trip spending
 
 [Greece Recap (2022)](./greece/home.html){:target="_blank"} <br />
 Fun recap of family vacation from perspective of Smiski's <br />
