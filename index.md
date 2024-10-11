@@ -1,4 +1,4 @@
-Hello! My name is Kenny, and I'm a wearer of many hats. Most recently, I worked at Jane Street doing Strategy and Product, a flexible role involving data analytics, project management, and problem solving on a daily basis. Prior to that, I graduated from Princeton University with a Bachelor's of Science and Engineering in Operations Research and Financial Engineering, as well as four minors in variety of technical disciplines. I've served in many leadership roles, including as an officer of Princeton Data Science club and co-vice president of our Table Tennis Club. In my free time, I enjoy playing volleyball, trying the hottest restaurants in NYC, and watching football and basketball, and a recent interest of mine is archery. Feel free to take a look below and see some of things I've worked on! You can also find [my resume here](./Resume_081722.pdf){:target="_blank"} and a [brief timeline of my journey thus far here](./timeline){:target="_blank"}.
+Hello! My name is Kenny, and I'm a wearer of many hats. Most recently, I worked at Jane Street doing Strategy and Product, a flexible role involving data analytics, project management, and problem solving on a daily basis. Prior to that, I graduated from Princeton University with a BSE in Operations Research and Financial Engineering, as well as four minors in variety of technical disciplines. I've also served in many leadership roles, including as an officer of Princeton Data Science club and co-vice president of our Table Tennis Club. In my free time, I enjoy playing volleyball, trying the hottest restaurants in NYC, and watching football and basketball, and a recent interest of mine is archery. Feel free to take a look below and see some of things I've worked on! You can also find [my resume here](./Resume_081722.pdf){:target="_blank"} and a [brief timeline of my journey thus far here](./timeline){:target="_blank"}.
 
 [<img src="github.png" width=30px>](https://github.com/kenhuang41/){:target="_blank"}
 [<img src="linkedin.png" width=30px>](https://linkedin.com/in/kenhuang41){:target="_blank"}
@@ -14,7 +14,7 @@ Machine-learning approach to quantifying NBA players’ worth to their team in t
 [What Makes Blocks Good? (2022)](good_blocks.pdf){:target="_blank"} <br />
 Improved evaluation of blocks and their effects within and after possessions in the NBA
 
-[Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_project.pdf){:target="_blank"} <br />
+[Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_report.pdf){:target="_blank"} <br />
 Computer vision project to detect which string is being played by a cellist based on visual data
 
 [Free Agency and Triadic Closure (2021)](projects/orf387_project.pdf){:target="_blank"} <br />
