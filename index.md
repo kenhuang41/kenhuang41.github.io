@@ -8,8 +8,11 @@ Hello! My name is Kenny, and I'm a wearer of many hats. Most recently, I worked 
 
 ### Featured
 
+[WAR in Pieces: A Bottom Up Approach to Player Evaluation in the NBA](projects/undergraduate_thesis.pdf){:target="_blank"} <br />
+Machine-learning approach to quantifying NBA players’ worth to their team in terms of wins above replacement
+
 [What Makes Blocks Good? (2022)](good_blocks.pdf){:target="_blank"} <br />
-Improved evaluation of blocks and their effects within and after possessions
+Improved evaluation of blocks and their effects within and after possessions in the NBA
 
 [Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_project.pdf){:target="_blank"} <br />
 Computer vision project to detect which string is being played by a cellist based on visual data
@@ -27,6 +30,9 @@ Fun gadget containing visualizations and summary of NYC summer trip spending
 
 ### Analysis Articles
 
+[WAR in Pieces: A Bottom Up Approach to Player Evaluation in the NBA](projects/undergraduate_thesis.pdf){:target="_blank"} <br />
+Machine-learning approach to quantifying NBA players’ worth to their team in terms of wins above replacement
+
 [What Makes Blocks Good? (2022)](good_blocks.pdf){:target="_blank"} <br />
 Improved evaluation of blocks and their effects within and after possessions
 
@@ -39,12 +45,6 @@ Using SVM and logistic regression to predict growth of fast food restaurants in 
 [A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"} <br />
 Evaluation of blocks and their value in the NBA
 
-[Perfect Games (2021)](http://harvardsportsanalysis.org/2021/02/almost-perfect-a-look-at-zion-esque-games/){:target="_blank"} <br />
-Brief analysis of players making all of their 2-point field goal attempts in NBA history (HSAC)
-
-[Useless Benches in the NBA (2021)](projects/useless_bench.html){:target="_blank"} <br />
-Analysis of worst bench performances in NBA history
-
 [Load Management (2019)](wri150_paper.pdf){:target="_blank"} <br />
 Paper detailing original research regarding effects of load management on the NBA
 
@@ -54,6 +54,12 @@ Paper detailing original research regarding effects of load management on the NB
 
 [Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_report.pdf){:target="_blank"} <br />
 Computer vision project to detect which string is being played by a cellist based on visual data
+
+[Perfect Games (2021)](http://harvardsportsanalysis.org/2021/02/almost-perfect-a-look-at-zion-esque-games/){:target="_blank"} <br />
+Brief analysis of players making all of their 2-point field goal attempts in NBA history (HSAC)
+
+[Useless Benches in the NBA (2021)](projects/useless_bench.html){:target="_blank"} <br />
+Analysis of worst bench performances in NBA history
 
 <br />
 
@@ -100,7 +106,7 @@ Report on semester-long commitment to improve at solving a Rubix cube
 Fun visualization of Powerade addiction
 
 [First Point Analysis (2015)](https://docs.google.com/spreadsheets/d/1rGuhxGGrdMzkU4yDsr-2Fsnx1fif9XndRTxqDQ8JJOA/edit?usp=sharing){:target="_blank"} <br />
-Comprehensive analys-- ok let's be honest this was way before I got into data science but somehow I was motivated to make this?
+Comprehensive analys-- ok let's be honest this was way before I learned anything about stats but I was somehow motivated to make this
 
 <br />
 
