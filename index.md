@@ -1,4 +1,4 @@
-Hello! My name is Kenny, and I'm a wearer of many hats. Most recently, I worked at Jane Street doing Strategy and Product, a flexible role involving data analytics, project management, and problem solving on a daily basis. Prior to that, I graduated from Princeton University with a BSE in Operations Research and Financial Engineering, as well as four minors in variety of technical disciplines. I've also served in many leadership roles, including as an officer of Princeton Data Science club and co-vice president of our Table Tennis Club. In my free time, I enjoy playing volleyball, trying the hottest restaurants in NYC, and watching football and basketball, and a recent interest of mine is archery. Feel free to take a look below and see some of things I've worked on! You can also find [my resume here](./Resume_081722.pdf){:target="_blank"} and a [brief timeline of my journey thus far here](./timeline){:target="_blank"}.
+Hello! My name is Kenny, and I'm a wearer of many hats. Most recently, I worked at Jane Street doing Strategy and Product, a flexible role involving data analytics, project management, and problem solving on a daily basis. Prior to that, I graduated from Princeton University with a BSE in Operations Research and Financial Engineering, as well as four minors in a variety of technical disciplines. I've also served in many leadership roles, including as an officer of Princeton Data Science club and co-vice president of our Table Tennis Club. In my free time, I enjoy playing volleyball, trying the hottest restaurants in NYC, and watching football and basketball, and a recent interest of mine is archery. Feel free to take a look below and see some of things I've worked on! You can also find [my resume here](./Resume_081722.pdf){:target="_blank"} and a [brief timeline of my journey thus far here](./timeline){:target="_blank"}.
 
 [<img src="github.png" width=30px>](https://github.com/kenhuang41/){:target="_blank"}
 [<img src="linkedin.png" width=30px>](https://linkedin.com/in/kenhuang41){:target="_blank"}
@@ -12,20 +12,20 @@ Hello! My name is Kenny, and I'm a wearer of many hats. Most recently, I worked 
 Novel bottom-up machine learning algorithm to quantitatively evaluate NBA players by estimating wins above replacement; Princeton University senior thesis completed under the guidance of Professor Ramon van Handel
 
 [Fast Covariance Estimation Techniques](projects/CWF_research.pdf){:target="_blank"} <br />
-Experiments for a fast estimation algorithm applying Principal Component Analysis and Fourier-Bessel basis functions to optimize Covariance Wiener Filtering in denoising cryo-EM imaging; runtime from O(N) to sub-logarithmic time with 1.3% relative error; later was published as [Fast principal component analysis for cryo-electron microscopy images (Marshall et al., 2023)](https://www.cambridge.org/core/journals/biological-imaging/article/fast-principal-component-analysis-for-cryoelectron-microscopy-images/DAE19FFFC90D618E36EACBD39251D0AB){:target="_blank"}
+Experiments for a fast estimation algorithm applying Principal Component Analysis and Fourier-Bessel basis functions to optimize Covariance Wiener Filtering in denoising cryo-EM imaging; reduced runtime from O(N) to sub-logarithmic time with 1.3% relative error; future work by advisor was published as [Fast principal component analysis for cryo-electron microscopy images (Marshall et al., 2023)](https://www.cambridge.org/core/journals/biological-imaging/article/fast-principal-component-analysis-for-cryoelectron-microscopy-images/DAE19FFFC90D618E36EACBD39251D0AB){:target="_blank"}
 
 [What Makes Blocks Good? (2022)](good_blocks.pdf){:target="_blank"} <br />
 Re-examination of the traditional defensive statistic of blocks by evaluating them using custom metrics that capture their indirect effects both within and after possessions in the NBA; builds on findings from previous work of [A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"}
 
 [Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_report.pdf){:target="_blank"} <br />
-Final project that applies computer vision techniques and KNN machine learning model to determine which string is being played by a cellist based on visual data
+Final project applying computer vision techniques and a KNN machine learning model to determine which string is being played by a cellist based on visual data
 
 [NYC Trip Visualization (2022)](https://kenhuang41.shinyapps.io/nyc_trip_visualization/){:target="_blank"} <br />
 Fun gadget containing visualizations and summary of NYC summer trip spending
 
 <br />
 
-### Analysis Articles
+### Data Analysis Projects
 
 [WAR in Pieces: A Bottom Up Approach to Player Evaluation in the NBA](projects/undergraduate_thesis.pdf){:target="_blank"} <br />
 Novel bottom-up machine learning algorithm to quantitatively evaluate NBA players by estimating wins above replacement; Princeton University senior thesis completed under the guidance of Professor Ramon van Handel
@@ -50,10 +50,10 @@ Paper detailing original research regarding effects of load management on the NB
 ### Other Projects
 
 [Fast Covariance Estimation Techniques](projects/CWF_research.pdf){:target="_blank"} <br />
-Experiments for a fast estimation algorithm applying Principal Component Analysis and Fourier-Bessel basis functions to optimize Covariance Wiener Filtering in denoising cryo-EM imaging; runtime from O(N) to sub-logarithmic time with 1.3% relative error; later was published as [Fast principal component analysis for cryo-electron microscopy images (Marshall et al., 2023)](https://www.cambridge.org/core/journals/biological-imaging/article/fast-principal-component-analysis-for-cryoelectron-microscopy-images/DAE19FFFC90D618E36EACBD39251D0AB){:target="_blank"}
+Experiments for a fast estimation algorithm applying Principal Component Analysis and Fourier-Bessel basis functions to optimize Covariance Wiener Filtering in denoising cryo-EM imaging; reduced runtime from O(N) to sub-logarithmic time with 1.3% relative error; future work by advisor was published as [Fast principal component analysis for cryo-electron microscopy images (Marshall et al., 2023)](https://www.cambridge.org/core/journals/biological-imaging/article/fast-principal-component-analysis-for-cryoelectron-microscopy-images/DAE19FFFC90D618E36EACBD39251D0AB){:target="_blank"}
 
 [Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors (2021)](projects/cos429_final_report.pdf){:target="_blank"} <br />
-Final project that applies computer vision techniques and KNN machine learning model to determine which string is being played by a cellist based on visual data
+Final project applying computer vision techniques and a KNN machine learning model to determine which string is being played by a cellist based on visual data
 
 [Perfect Games (2021)](http://harvardsportsanalysis.org/2021/02/almost-perfect-a-look-at-zion-esque-games/){:target="_blank"} <br />
 Short analysis written for Harvard Sports Analytics Club to describe games in NBA history where players made all of their 2-point field goal attempts
@@ -84,11 +84,11 @@ Ten synonyms for the 333,333 most common English words scraped using BS4
 [NYC Trip Visualization (2022)](https://kenhuang41.shinyapps.io/nyc_trip_visualization/){:target="_blank"} <br />
 Fun gadget containing visualizations and summary of NYC summer trip spending
 
-[Greece Recap (2022)](./greece/home.html){:target="_blank"} <br />
-Fun recap of family vacation from perspective of Smiski's <br />
-
 [Battleship (2022)](./battleship){:target="_blank"} <br />
 Virtual version of Battleship board game created using React from scratch without tutorial <br />
+
+[Greece Recap (2022)](./greece/home.html){:target="_blank"} <br />
+Recap of family vacation from perspective of Smiskis <br />
 
 [Unhelpful Thesaurus (2021)](https://kenhuang41.shinyapps.io/unhelpful_thesaurus/){:target="_blank"} <br />
 Fun widget to generate nonsensical sentences based on synonyms scraped from thesaurus.com <br />
