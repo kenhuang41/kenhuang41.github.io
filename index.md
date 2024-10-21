@@ -1,8 +1,16 @@
-Hello! My name is Kenny, and I'm a wearer of many hats. Most recently, I worked at Jane Street doing Strategy and Product, a flexible role involving data analytics, project management, and problem solving on a daily basis. Prior to that, I graduated from Princeton University with a BSE in Operations Research and Financial Engineering, as well as four minors in a variety of technical disciplines. I've also served in many leadership roles, including as an officer of Princeton Data Science club and co-vice president of our Table Tennis Club. In my free time, I enjoy playing volleyball, trying the hottest restaurants in NYC, and watching football and basketball, and a recent interest of mine is archery. Feel free to take a look below and see some of things I've worked on! You can also find [my resume here](./Resume_081722.pdf){:target="_blank"} and a [brief timeline of my journey thus far here](./timeline){:target="_blank"}.
+Hello! I’m Kenny, a versatile professional with a diverse background. Most recently, I worked at Jane Street in a Strategy and Product role, where I engaged in data analytics, project management, and daily problem-solving. In this position at a leading proprietary trading firm, I regularly worked with million-row datasets and collaborated on strategies for handling billions of dollars in trading capital.
+
+I graduated from Princeton University in 2023 with a BSE in Operations Research and Financial Engineering, along with four minors in technical fields such as Statistics, Machine Learning, and Applied Mathematics. I also gained valuable experience through extracurricular projects in sports analytics and conducted research on advanced linear algebra techniques.
+
+In addition to my academic pursuits, I’ve taken on several leadership roles, including serving as an officer in the Princeton Data Science Club and as co-vice president of the Table Tennis Club.
+
+In my spare time, I enjoy playing volleyball, exploring NYC’s hottest restaurants, and following football and basketball. Recently, I’ve also developed an interest in archery.
+
+Feel free to check out my work below and view [my resume here](./Resume_20241010.pdf){:target="_blank"}!
 
 [<img src="github.png" width=30px>](https://github.com/kenhuang41/){:target="_blank"}
 [<img src="linkedin.png" width=30px>](https://linkedin.com/in/kenhuang41){:target="_blank"}
-[<img src="mail.png" width=30px>](mailto:kh19@princeton.edu){:target="_blank"}
+[<img src="mail.png" width=30px>](mailto:kenhuang41@gmail.com){:target="_blank"}
 
 <br />
 
@@ -112,6 +120,6 @@ Comprehensive analys-- ok let's be honest this was way before I learned anything
 
 ### Contact
 
-I'm currently looking for a full-time role. Feel free to contact me at **kenhuang [at] gmail [dot] com**.
+I am actively seeking a full-time role and would love to connect. Please feel free to reach out to me at **kenhuang [at] gmail [dot] com**.
 
 (Last updated October 12, 2024)
