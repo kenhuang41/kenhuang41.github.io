@@ -17,7 +17,7 @@ Feel free to check out my work below and view [my resume here](./Resume_20241010
 ### Featured
 
 [WAR in Pieces: A Bottom Up Approach to Player Evaluation in the NBA](projects/undergraduate_thesis.pdf){:target="_blank"} <br />
-A novel bottom-up machine learning algorithm to quantitatively evaluate NBA players by estimating wins above replacement; Princeton University senior thesis completed under the guidance of Professor Ramon van Handel
+[Abridged poster version here](projects/SML_Poster.pdf){:target="_blank"}; a novel bottom-up machine learning algorithm to quantitatively evaluate NBA players by estimating wins above replacement; Princeton University senior thesis completed under the guidance of Professor Ramon van Handel
 
 [Fast Covariance Estimation Techniques](projects/CWF_research.pdf){:target="_blank"} <br />
 Experiments for a fast estimation algorithm applying Principal Component Analysis and Fourier-Bessel basis functions to optimize Covariance Wiener Filtering in denoising cryo-EM imaging; reduced runtime from O(N) to sub-logarithmic time with 1.3% relative error; future work by advisor was published as [Fast principal component analysis for cryo-electron microscopy images (Marshall et al., 2023)](https://www.cambridge.org/core/journals/biological-imaging/article/fast-principal-component-analysis-for-cryoelectron-microscopy-images/DAE19FFFC90D618E36EACBD39251D0AB){:target="_blank"}
@@ -36,7 +36,7 @@ A fun gadget containing visualizations and summary of NYC summer trip spending
 ### Data Analysis Projects
 
 [WAR in Pieces: A Bottom Up Approach to Player Evaluation in the NBA](projects/undergraduate_thesis.pdf){:target="_blank"} <br />
-A novel bottom-up machine learning algorithm to quantitatively evaluate NBA players by estimating wins above replacement; Princeton University senior thesis completed under the guidance of Professor Ramon van Handel
+[Abridged poster version here](projects/SML_Poster.pdf){:target="_blank"}; a novel bottom-up machine learning algorithm to quantitatively evaluate NBA players by estimating wins above replacement; Princeton University senior thesis completed under the guidance of Professor Ramon van Handel
 
 [What Makes Blocks Good? (2022)](good_blocks.pdf){:target="_blank"} <br />
 A re-examination of the traditional defensive statistic of blocks by evaluating them using custom metrics that capture their indirect effects both within and after possessions in the NBA; builds on findings from previous work of [A Study of the Goodness of Blocks (2021)](projects/bad_blocks_abridged.html){:target="_blank"}
