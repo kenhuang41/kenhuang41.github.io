@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>valentine's 2025</title>
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+<div class="topnav">
+  <a class="home" href="fun.html">Home</a>
+  <a href="yes.html">Yes</a>
+<div class="container">
+  <img src="IMG_3980.JPEG" alt="rip not working" width=100%>
+  <div class="title-container">
+    <h2>Will you be my valentine?</h2>
+    <h3>for Kathy Li</h3>
+    <p>blah blah</p>
+  </div>
+</div>
+
+</body>
